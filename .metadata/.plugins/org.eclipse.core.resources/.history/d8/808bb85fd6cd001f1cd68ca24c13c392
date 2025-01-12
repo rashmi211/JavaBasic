@@ -1,0 +1,10 @@
+package selectionStatements;
+
+public class SimpleIf {
+	public static void main(String[] args) {
+		if(100>50) {
+			System.out.println("Bigger");
+		}
+	}
+
+}
