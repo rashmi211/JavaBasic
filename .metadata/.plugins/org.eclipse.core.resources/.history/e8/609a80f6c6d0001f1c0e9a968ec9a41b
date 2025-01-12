@@ -9,7 +9,7 @@ public class PrePostAssignment {
 		System.out.println(i);
 	
 		
-	int n=10;
+	int n=5;
 	int k=n++;
 	System.out.println(n);
 	System.out.println(k);//here you first give value of N to k and then increment

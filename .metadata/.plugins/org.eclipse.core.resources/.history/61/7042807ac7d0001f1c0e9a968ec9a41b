@@ -1,0 +1,13 @@
+package selectionStatements;
+
+public class LargestOfThreeNumber {
+	public static void main(String[] args) {
+	int a=100,b=50,c=750;
+	int largest = 0;
+	
+	if(a>b) {
+		if(a>c) {	
+		}
+	}
+	System.out.println("Largest nuber will be" + largest);
+}}
