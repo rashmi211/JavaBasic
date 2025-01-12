@@ -1,0 +1,19 @@
+package javaBasics;
+
+public class PrePostAssignment {
+	public static void main(String[] args) {
+		int i=5;
+		int j=++i;
+		System.out.println(i);
+		System.out.println(j);
+	
+		
+	int n=5;
+	int k=n++;
+	System.out.println(n);
+	System.out.println(k);//here you first give value of N to k and then increment
+	
+	
+	}
+
+}

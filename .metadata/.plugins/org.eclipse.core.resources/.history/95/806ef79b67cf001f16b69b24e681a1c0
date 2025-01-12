@@ -1,0 +1,11 @@
+package iterativeStatements;
+
+public class ForEachLoop {
+	public static void main(String[] args) {
+		int n[]= {21,53,64,2325,56};
+		for(int h:n) {
+			System.out.println(n);
+		}
+	}
+
+}

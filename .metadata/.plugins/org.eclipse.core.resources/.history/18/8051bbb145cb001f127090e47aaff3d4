@@ -1,0 +1,31 @@
+package javaBasics;
+
+public class Class_Dec15 {
+	static String name;
+	int age;
+	
+	public void method1() {
+		System.out.println(name +":"+age);
+	}
+	
+	
+	
+	public static void main(String[] args) {
+		Class_Dec15 obj=new Class_Dec15();
+		obj.name="Rashmi";
+		obj.age=28;
+		
+		Class_Dec15 obj1=new Class_Dec15();
+		obj1.name="Shruti";
+		obj1.age=27;
+		
+		obj.method1();
+		obj1.method1();
+		System.out.println(name);
+	
+		
+	}
+	
+
+
+}
