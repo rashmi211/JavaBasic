@@ -6,14 +6,13 @@ public class PrePostAssignment {
 		int j=++i;
 		System.out.println(i);
 		System.out.println(j);
-		System.out.println(i);
 	
 		
-	int n=10;
+	int n=5;
 	int k=n++;
 	System.out.println(n);
 	System.out.println(k);//here you first give value of N to k and then increment
-	System.out.println(n);
+	
 	
 	}
 

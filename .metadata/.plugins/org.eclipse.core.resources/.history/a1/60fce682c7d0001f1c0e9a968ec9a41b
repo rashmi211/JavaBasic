@@ -2,7 +2,7 @@ package selectionStatements;
 
 public class LargestOfThreeNumber {
 	public static void main(String[] args) {
-	int a=100,b=2550,c=750;
+	int a=100,b=50,c=750;
 	int largest = 0;
 	
 	if((a>b) && (a>c)){
